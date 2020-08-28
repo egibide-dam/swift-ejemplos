@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:02_swift_elementos_basicos"
+      name = "02_swift_elementos_basicos">
+      <Group
+         location = "group:01_sentencias_bloques_comentarios"
+         name = "01_sentencias_bloques_comentarios">
+         <FileRef
+            location = "group:01_sentencias_bloques_comentarios.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:02_variables_constantes"
+         name = "02_variables_constantes">
+         <FileRef
+            location = "group:01_declaracion_variables.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_anotaciones_tipos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_nombre_variables.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_salida_consola.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:/Users/widemos/proyectos/swift/02_ejemplos/02_swift_elementos_basicos/03_valores_numericos_logicos"
+         name = "03_valores_numericos_logicos">
+         <FileRef
+            location = "group:01_limite_enteros.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_inferencia_tipos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_conversion_tipos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_alias_tipos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_valores_logicos.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:04_cadenas_texto"
+         name = "04_cadenas_texto">
+         <FileRef
+            location = "group:01_strings.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_multiline_strings.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_caracteres_especiales.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_cadena_vacia.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_recorrido_caracteres.playground">
+         </FileRef>
+         <FileRef
+            location = "group:06_concatenacion.playground">
+         </FileRef>
+         <FileRef
+            location = "group:07_interpolacion.playground">
+         </FileRef>
+         <FileRef
+            location = "group:08_recuento_caracteres.playground">
+         </FileRef>
+         <FileRef
+            location = "group:09_indices.playground">
+         </FileRef>
+         <FileRef
+            location = "group:10_insertar_eliminar_caracteres.playground">
+         </FileRef>
+         <FileRef
+            location = "group:11_subcadenas.playground">
+         </FileRef>
+         <FileRef
+            location = "group:12_igualdad_strings.playground">
+         </FileRef>
+         <FileRef
+            location = "group:13_prefijos_sufijos.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:05_tuplas"
+         name = "05_tuplas">
+         <FileRef
+            location = "group:01_tuplas.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:06_opcionales"
+         name = "06_opcionales">
+         <FileRef
+            location = "group:01_opcionales.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_forced_unwrapping.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_optional_binding.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_opcionales_implicitos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_operador_coalescencia_nil.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:07_operadores_asignacion_aritmeticos"
+         name = "07_operadores_asignacion_aritmeticos">
+         <FileRef
+            location = "group:01_operador_asignacion.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:03_estructuras_control"
+      name = "03_estructuras_control">
+      <Group
+         location = "group:01_alternativa_simple"
+         name = "01_alternativa_simple">
+         <FileRef
+            location = "group:01_alternativa_simple.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:02_operadores_relacionales_logicos"
+         name = "02_operadores_relacionales_logicos">
+         <FileRef
+            location = "group:01_operadores_relacionales.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_comparar_tuplas.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_operador_ternario.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_operador_not.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_operador_and.playground">
+         </FileRef>
+         <FileRef
+            location = "group:06_operador_or.playground">
+         </FileRef>
+         <FileRef
+            location = "group:07_combinar_operadores_logicos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:08_parentesis_explicitos.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:03_alternativa_multiple"
+         name = "03_alternativa_multiple">
+         <FileRef
+            location = "group:01_alternativa_multiple.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_switch_intervalos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_switch_tuplas.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_value_binding.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_switch_where.playground">
+         </FileRef>
+         <FileRef
+            location = "group:06_casos_compuestos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:07_fallthrough.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:04_repetitivas"
+         name = "04_repetitivas">
+         <FileRef
+            location = "group:01_while.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_repeat_while.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_for_in.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:05_rangos"
+         name = "05_rangos">
+         <FileRef
+            location = "group:01_rango_cerrado.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_rango_semicerrado.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_rangos_un_lado.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:06_gestion_errores"
+         name = "06_gestion_errores">
+         <FileRef
+            location = "group:01_excepciones.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_salida_temprana.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_gestion_errores.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:07_comprobacion_api"
+         name = "07_comprobacion_api">
+         <FileRef
+            location = "group:01_comprobacion_api.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:04_colecciones"
+      name = "04_colecciones">
+      <Group
+         location = "group:02_arrays"
+         name = "02_arrays">
+         <FileRef
+            location = "group:01_arrays.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_operaciones_arrays.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_recorrer_array.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:03_conjuntos"
+         name = "03_conjuntos">
+         <FileRef
+            location = "group:01_conjuntos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_operaciones_conjuntos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_recorrer_conjunto.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_operaciones_entre_conjuntos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_pertenencia_conjunto.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:04_diccionarios"
+         name = "04_diccionarios">
+         <FileRef
+            location = "group:01_diccionarios.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_operaciones_diccionarios.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_recorrer_diccionario.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_extraer_array.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:05_funciones_clausuras"
+      name = "05_funciones_clausuras">
+      <Group
+         location = "group:01_funciones"
+         name = "01_funciones">
+         <FileRef
+            location = "group:01_definicion.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_llamada.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:02_tipos_funciones"
+         name = "02_tipos_funciones">
+         <FileRef
+            location = "group:01_con_parametros.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_sin_parametros.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_multiples_parametros.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_sin_retorno.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_con_retorno.playground">
+         </FileRef>
+         <FileRef
+            location = "group:06_multiples_retornos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:07_tuplas_opcionales.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:03_parametros_argumentos"
+         name = "03_parametros_argumentos">
+         <FileRef
+            location = "group:01_parametros_argumentos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_etiquetas_argumentos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_anular_etiqueta.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_parametros_defecto.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_parametros_indeterminados.playground">
+         </FileRef>
+         <FileRef
+            location = "group:06_parametros_inout.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:04_funciones_tipos_datos"
+         name = "04_funciones_tipos_datos">
+         <FileRef
+            location = "group:01_tipo_dato_funcion.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_funciones_como_tipos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_tipo_funcion_como_parametro.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_tipo_funcion_como_retorno.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_funciones_anidadas.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:05_clausuras"
+         name = "05_clausuras">
+         <FileRef
+            location = "group:01_ejemplo_sorted_by.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_clausuras_posteriores.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_clausuras_posteriores.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_captura_valores.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_clausuras_tipo_referencia.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:06_tipos_personalizados"
+      name = "06_tipos_personalizados">
+      <Group
+         location = "group:01_enumeraciones"
+         name = "01_enumeraciones">
+         <FileRef
+            location = "group:01_definicion.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_uso.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_comparacion_switch.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_valores_asociados.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_extraer_valores_asociados.playground">
+         </FileRef>
+         <FileRef
+            location = "group:06_valores_raw.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:02_clases_estructuras"
+         name = "02_clases_estructuras">
+         <FileRef
+            location = "group:01_definicion.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_instanciacion.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_acceso_propiedades.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_inicializador_memberwise.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_tipos_valor.playground">
+         </FileRef>
+         <FileRef
+            location = "group:06_tipos_referencia.playground">
+         </FileRef>
+         <FileRef
+            location = "group:07_operador_identidad.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:03_propiedades"
+         name = "03_propiedades">
+         <FileRef
+            location = "group:01_propiedades_almacenadas.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_propiedades_constantes.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_propiedades_lazy_stored.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_propiedades_calculadas.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_sintaxis_abreviada_setter.playground">
+         </FileRef>
+         <FileRef
+            location = "group:06_propiedades_calculadas_solo_lectura.playground">
+         </FileRef>
+         <FileRef
+            location = "group:07_observers copia.playground">
+         </FileRef>
+         <FileRef
+            location = "group:08_propiedades_tipo.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:04_metodos"
+         name = "04_metodos">
+         <FileRef
+            location = "group:01_metodos_instancia.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_propiedad_self.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_modificar_tipos_valor.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_modificar_tipos_valor_error.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_self_metodo_mutante.playground">
+         </FileRef>
+         <FileRef
+            location = "group:06_metodos_tipo.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:05_subindices"
+         name = "05_subindices">
+         <FileRef
+            location = "group:01_subindices.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_ejemplo_matriz.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:06_herencia"
+         name = "06_herencia">
+         <FileRef
+            location = "group:01_clase_base.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_instancia.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_subclase.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_jerarquia_herencia.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_override_metodos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:06_override_propiedades.playground">
+         </FileRef>
+         <FileRef
+            location = "group:07_override_observers.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:07_ciclo_vida"
+      name = "07_ciclo_vida">
+      <Group
+         location = "group:01_inicializacion"
+         name = "01_inicializacion">
+         <FileRef
+            location = "group:01_inicializadores.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_valores_predeterminados.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_inicializador_parametros.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_etiquetas_argumentos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_parametros_sin_etiquetas.playground">
+         </FileRef>
+         <FileRef
+            location = "group:06_inicializar_opcionales.playground">
+         </FileRef>
+         <FileRef
+            location = "group:07_inicializar_constantes.playground">
+         </FileRef>
+         <FileRef
+            location = "group:08_inicializador_predeterminado.playground">
+         </FileRef>
+         <FileRef
+            location = "group:09_inicializador_memberwise.playground">
+         </FileRef>
+         <FileRef
+            location = "group:10_delegacion_inicializadores.playground">
+         </FileRef>
+         <FileRef
+            location = "group:11_herencia_inicializadores.playground">
+         </FileRef>
+         <FileRef
+            location = "group:12_ejemplo_inicializadores.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:02_desinicializacion"
+         name = "02_desinicializacion">
+         <FileRef
+            location = "group:01_ejemplo_desinicializadores.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:03_arc"
+         name = "03_arc">
+         <FileRef
+            location = "group:01_ejemplo_arc.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_referencias_ciclicas.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_referencias_weak.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_referencias_unowned.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_unowned_opcional_implicito.playground">
+         </FileRef>
+         <FileRef
+            location = "group:06_referencias_ciclicas_clausuras.playground">
+         </FileRef>
+         <FileRef
+            location = "group:07_lista_captura.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:08_extensiones_protocolos_genericos"
+      name = "08_extensiones_protocolos_genericos">
+      <Group
+         location = "group:01_extensiones"
+         name = "01_extensiones">
+         <FileRef
+            location = "group:01_anyadir_propiedades_calculadas.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_anyadir_inicializadores.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_anyadir_metodos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_anyadir_metodos_mutantes.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_anyadir_subindices.playground">
+         </FileRef>
+         <FileRef
+            location = "group:06_anyadir_tipos_anidados.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:02_protocolos"
+         name = "02_protocolos">
+         <FileRef
+            location = "group:01_requerir_propiedades.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_requerir_metodos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_requerir_metodos_mutantes.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_requerir_inicializador_herencia.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_protocolos_tipos_datos.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:03_tipos_genericos"
+         name = "03_tipos_genericos">
+         <FileRef
+            location = "group:01_necesidad_genericos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_funciones_genericas.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_tipos_genericos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_extender_tipo_generico.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_restricciones_tipos.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:09_swift_operadores_avanzados"
+      name = "09_swift_operadores_avanzados">
+      <Group
+         location = "group:01_operadores_bit"
+         name = "01_operadores_bit">
+         <FileRef
+            location = "group:01_bitwise_not.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_bitwise_and.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_bitwise_or.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_bitwise_xor.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:02_operadores_desplazamiento"
+         name = "02_operadores_desplazamiento">
+         <FileRef
+            location = "group:01_desplazamiento_unsigned.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:03_operadores_overflow"
+         name = "03_operadores_overflow">
+         <FileRef
+            location = "group:01_error_overflow.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_overflow_superior.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_overflow_inferior.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:05_sobrecarga_operadores"
+         name = "05_sobrecarga_operadores">
+         <FileRef
+            location = "group:01_operador_infijo.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_operador_prefijo.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_operadores_asignacion_compuesta.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_operadores_equivalencia.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_operadores_personalizados.playground">
+         </FileRef>
+         <FileRef
+            location = "group:06_precedencia_operador_personalizado.playground">
+         </FileRef>
+      </Group>
+   </Group>
+   <Group
+      location = "group:10_varios"
+      name = "10_varios">
+      <Group
+         location = "group:01_optional_chaining"
+         name = "01_optional_chaining">
+         <FileRef
+            location = "group:01_error_forced_unwrapping.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_optional_chaining.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_modelo_clases_ejemplo.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_acceso_propiedades.playground">
+         </FileRef>
+         <FileRef
+            location = "group:05_llamada_metodos.playground">
+         </FileRef>
+         <FileRef
+            location = "group:06_comprobar_acceso_propiedades.playground">
+         </FileRef>
+         <FileRef
+            location = "group:07_utilizando_subindices.playground">
+         </FileRef>
+         <FileRef
+            location = "group:08_acceso_subindices_opcionales.playground">
+         </FileRef>
+         <FileRef
+            location = "group:09_multiples_niveles.playground">
+         </FileRef>
+         <FileRef
+            location = "group:10_encadenando_metodos_retorno_opcional.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:02_gestion_errores"
+         name = "02_gestion_errores">
+         <FileRef
+            location = "group:01_representar_lanzar_errores.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_propagar_errores.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_gestion_errores_do_catch.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:03_conversion_tipos"
+         name = "03_conversion_tipos">
+         <FileRef
+            location = "group:01_jerarquia_clases_ejemplo.playground">
+         </FileRef>
+         <FileRef
+            location = "group:02_comprobar_tipo.playground">
+         </FileRef>
+         <FileRef
+            location = "group:03_downcasting.playground">
+         </FileRef>
+         <FileRef
+            location = "group:04_tipo_any.playground">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:04_tipos_anidados"
+         name = "04_tipos_anidados">
+         <FileRef
+            location = "group:01_ejemplo_blackjackcard.playground">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>

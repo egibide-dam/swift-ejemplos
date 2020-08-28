@@ -1,0 +1,1 @@
+let cat = "🐱"; print(cat)
